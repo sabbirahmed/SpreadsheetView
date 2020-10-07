@@ -1,3 +1,17 @@
+# `kishikawakatsumi/SpreadsheetView` has moved!
+
+It is being actively maintained at [bannzai/SpreadsheetView](https://github.com/bannzai/SpreadsheetView).
+
+This fork was created when the project was moved, and is provided
+for backwards compatibility for old projects, but no guarantees are
+made on how up to date it will be.
+
+You're encouraged to update your import statements to use the official `bannzai/SpreadsheetViewk`
+version above.
+
+Apologies for the fuss, the new place has amazing people maintaining the community alive.
+
+
 <p align="center">
   <img src="Resources/Logo.png"  style="width: 400px;" width="400" />
 </p>
